@@ -46,7 +46,7 @@ melash-ventas/
 
 ```bash
 git clone https://github.com/j14sierra/ventas-app.git
-cd melash-ventas
+cd ventas-app
 ```
 
 ### 2. Instalar dependencias
