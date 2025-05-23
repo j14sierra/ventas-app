@@ -45,7 +45,7 @@ melash-ventas/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/melash-ventas.git
+git clone https://github.com/j14sierra/ventas-app.git)
 cd melash-ventas
 ```
 
